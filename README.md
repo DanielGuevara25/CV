@@ -12,5 +12,10 @@ Correo de contacto: dannygz2506@gmail.com
 
 ## Estudios Realizados
 
-Estudiante Universitario de 5to Semestre
+Universidad Politecnica Salesiana
 
+Estudiante Universitario de 5to Semestre 
+
+Colegio: 
+
+Unidad Educativa Cardenal Bernardino Echeverria Ruiz

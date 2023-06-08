@@ -19,3 +19,11 @@ Estudiante Universitario de 5to Semestre
 Colegio: 
 
 Unidad Educativa Cardenal Bernardino Echeverria Ruiz
+
+Escuela:
+
+Escuela Republica Panama
+
+Jardin
+
+Sandro Pertini

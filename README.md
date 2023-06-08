@@ -11,14 +11,16 @@ Fecha de Nacimiento: 25/06/03
 Correo de contacto: dannygz2506@gmail.com
 
 ## Estudios Realizados
-Estudios Primarios:
+### Estudios Primarios:
 Universidad Politecnica Salesiana
 
 Estudiante Universitario de 5to Semestre 
 
-Estudios Secundarios:
+### Estudios Secundarios:
 
 Colegio: Unidad Educativa Cardenal Bernardino Echeverria Ruiz
+
+### Estudios de Primaria
 
 Escuela: Republica Panama
 

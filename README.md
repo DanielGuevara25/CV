@@ -16,14 +16,8 @@ Universidad Politecnica Salesiana
 
 Estudiante Universitario de 5to Semestre 
 
-Colegio: 
+Colegio: Unidad Educativa Cardenal Bernardino Echeverria Ruiz
 
-Unidad Educativa Cardenal Bernardino Echeverria Ruiz
+Escuela: Escuela Republica Panama
 
-Escuela:
-
-Escuela Republica Panama
-
-Jardin:
-
-Sandro Pertini
+Jardin: Sandro Pertini

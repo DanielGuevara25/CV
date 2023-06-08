@@ -24,6 +24,6 @@ Escuela:
 
 Escuela Republica Panama
 
-Jardin
+Jardin:
 
 Sandro Pertini

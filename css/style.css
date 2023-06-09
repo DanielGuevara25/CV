@@ -84,7 +84,7 @@ header .overlay {
 /* change the color of active or hovered links */
 .navbar-custom .nav-link.active,
 .navbar-custom .nav-link:hover {
-    color: #4e9c58 !important;
+    color: #5f6177 !important;
 }
 
 nav {
@@ -141,7 +141,7 @@ nav {
 }
 
 .down-arrow:hover svg path {
-    fill: #4e9c58;
+    fill: #48587c;
     -webkit-transition: fill 800ms;
     transition: fill 800ms;
 }
@@ -182,11 +182,11 @@ nav {
 }*/
 
 .bg-pink {
-    background-color: #4e9c58;
+    background-color: #43575f;
 }
 
 .badge-info {
-    background-color: #4e9c58 !important;
+    background-color: #43575f !important;
 }
 
 @media (min-width: 768px) {
@@ -215,7 +215,7 @@ ul.nav li a:hover, ul.nav li a:active {
 }*/
 
 a {
-    color: #6f42c1 !important;
+    color: #9b42b1 !important;
 }
 
 .gallery .cc-leadership-image figure {
